@@ -9,8 +9,12 @@ check system requirements.
 
 Step 2:
 
-Install installation file
+Install installer file
 
 + [Easy installer for SQL sever 2016 developer edition (web page in english)](https://www.microsoft.com/en-us/download/details.aspx?id=103438&msockid=1263be660fb767bf0324abc30ea26611)
 
 + [for SQL server 2022](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+
+Step 3:
+
+Follow the instruction when installing SQL Server with its installer file.
