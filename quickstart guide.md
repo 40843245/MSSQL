@@ -18,3 +18,5 @@ Install installer file
 Step 3:
 
 Follow the instruction when installing SQL Server with its installer file.
+
+For more detailed instruction, you can see MSDS [SQL Server installation guide](https://learn.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server?view=sql-server-ver16)
