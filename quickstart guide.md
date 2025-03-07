@@ -1,4 +1,5 @@
 # quickstart guide
+
 Step 1:
 
 check system requirements.
@@ -20,3 +21,24 @@ Step 3:
 Follow the instruction when installing SQL Server with its installer file.
 
 For more detailed instruction, you can see MSDS [SQL Server installation guide](https://learn.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server?view=sql-server-ver16)
+
+Take SQL Server 2016 installer as example.
+
+1. Open SQL Server installer center by executing `..\setup.exe` file (one of installer file).
+2. select `install`, then click `add new one ...` link.
+
+<img width="615" alt="image" src="https://github.com/user-attachments/assets/e89238ca-fe39-4b0f-8414-1bf66beb069d" />
+
+3. 
+
++ click free edition radio button then select kind of free edition (for example, developer edition) if you want to use free version
++ or, click product key radio button then fill in your product key if you want to use pro version (you must have product key)
+
+Then, click `Next` button.
+
+<img width="604" alt="image" src="https://github.com/user-attachments/assets/c59d47bd-0362-4d34-9bfa-c0ae0af9ba04" />
+
+4. tick `I agree ...` checkbox, then click `Next` button.
+
+![Uploading image.png…]()
+ 
