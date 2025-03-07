@@ -46,5 +46,27 @@ Then, click `Next` button.
 
 ![image](https://github.com/user-attachments/assets/b47d1fb2-8f97-4902-a430-63465c11b8fb)
 
+6. click `default execution individual` radio button if you want to use default.
+
+Then check 
+
++ id number of `execution individual`
++ destination directory of SQL Server
++ etc
+
+And click `Next` button.
+
+<img width="736" alt="1" src="https://github.com/user-attachments/assets/615deddd-f8b7-44cd-a137-5b9c6df67fea" />
+
+7. select `mixin ...` radio button then fill in password. 
+
+> [!WARNING]
+> If don't select `mixin ...` radio button, one can not use `SA` approach to login for connection of SQL Server.
+
+Then click `Next` button.
+
+8. Wait for a moment.
+9. Congragulations.
+
 
  
