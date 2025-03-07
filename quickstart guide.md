@@ -38,7 +38,13 @@ Then, click `Next` button.
 
 <img width="604" alt="image" src="https://github.com/user-attachments/assets/c59d47bd-0362-4d34-9bfa-c0ae0af9ba04" />
 
-4. tick `I agree ...` checkbox, then click `Next` button.
+4. tick on `I agree ...` checkbox, then click `Next` button.
 
-![Uploading image.png…]()
+<img width="742" alt="image" src="https://github.com/user-attachments/assets/3d7fc354-6335-4678-a314-6e210d078491" />
+
+5. select tools that you want to install and set destination directory, then click `Next` button.
+
+![image](https://github.com/user-attachments/assets/b47d1fb2-8f97-4902-a430-63465c11b8fb)
+
+
  
