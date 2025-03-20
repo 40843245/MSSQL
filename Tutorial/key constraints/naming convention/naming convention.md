@@ -39,3 +39,9 @@ and
 `<tableNameWithPrimaryKey>` is the table name that has key constraint for primary key.
 
 `<tableNameWithForeignKey>` is the table name that has key constraint for foreign key.
+
+### examples
+See [Mastering SQL Server Database Constraints: Default Naming Conventions & Examples](https://www.adventuresinmachinelearning.com/mastering-sql-server-database-constraints-default-naming-conventions-examples/)
+
+## reference
+See [Mastering SQL Server Database Constraints: Default Naming Conventions & Examples](https://www.adventuresinmachinelearning.com/mastering-sql-server-database-constraints-default-naming-conventions-examples/)
